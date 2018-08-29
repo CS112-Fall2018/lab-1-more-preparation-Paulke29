@@ -1,6 +1,7 @@
 Lab 1 Worksheet
 
 1. What if 12 bits were used to store a signed integer. What is the biggest/smallest possible integer?
+Answer: The biggest integer is 9 and the smallest integer is 0. 
 
 2. Think about possible values and their range, say what type of variable would be suitable for the following, and suggest a name for it too. 
 
@@ -8,16 +9,21 @@ For example: the temperature of a room in degrees Fahrenheit. Room temperature i
 
 
 (i) The number of pages in a book; 
+  Int pagenumber
 
 (ii) The number of atoms in a book; 
+  Int number
 
 (iii) The length of a side of a triangle in inches; 
+	float length
 
 (iv) Your name; 
-
+    String name
 (v) Whether or not a nucleus has decayed; 
+     boolean nucleus
 
 (vi) The probability that it could have decayed. 
+	boolean possible
 
 3. Start to do a little java programming! 
 	Follow the example of the Hello.java program and do some testing of Java int and float.
